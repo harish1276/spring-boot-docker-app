@@ -1,4 +1,4 @@
-FROM java
+FROM eclipse-temurin
 MAINTAINER ADDRESS "hari"
 WORKDIR /app
 COPY **/*.jar . 
