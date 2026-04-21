@@ -1,4 +1,4 @@
-FROM openjdk
+FROM java
 MAINTAINER ADDRESS "hari"
 WORKDIR /app
 COPY **/*.jar . 
